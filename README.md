@@ -5,7 +5,7 @@
 ### Neurodiagnostic Technologist | Full-Stack Developer | B.S. in Neuroscience
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mario-mujica-903b19172)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariomujica99@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mariomujica99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariomujica99@gmail.com)
 [![Handshake](https://img.shields.io/badge/Handshake-yellow?style=for-the-badge&logo=handshake&logoColor=white)](https://unomaha.joinhandshake.com/profiles/nbw72u)
 
 </div>
@@ -61,7 +61,7 @@ My journey from neuroscience to software development has given me:
 
 ---
 
-## Featured Projects
+## Projects
 
 ### [Techflow](https://github.com/mariomujica99/Techflow)  
 **EEG Workflow Management System**  
@@ -70,7 +70,7 @@ My journey from neuroscience to software development has given me:
 A comprehensive Progressive Web App designed for EEG Technologists in the hospital neurophysiology department. This project streamlines EEG workflow management, equipment tracking, and team collaboration.
 
 [![Website](https://img.shields.io/badge/Techflow-30b5b2?style=flat-square)](https://techflow-eeg.onrender.com)
-[![Video](https://img.shields.io/badge/Video_Demo-FF0000?style=flat-square&logo=youtube)](https://youtu.be/ULuMOTTXwl8)
+[![Video](https://img.shields.io/badge/Video_Demo-FF0000?style=flat-square&logo=youtube)](https://youtu.be/jFayn1NAa2k)
 
 **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS, JWT, Cloudinary  
 **Key Features:**
@@ -169,74 +169,3 @@ A recreation of YouTube's homepage interface. This project demonstrates the use 
 - Interactive sidebar navigation
 - Hover effects and tooltips
 - Dynamic video thumbnails
-
----
-
-## Skills
-
-#### **Full-Stack Development**
-- Building complete MERN stack application
-- RESTful API design and implementation
-- Database schema design with MongoDB/Mongoose
-- JWT authentication and role-based authorization
-- File upload handling and cloud storage integration
-
-#### **Frontend Development**
-- Modern React with hooks, Context API, and React Router
-- Responsive UI design with Tailwind CSS
-- JavaFX and PyQt6 desktop applications
-- Progressive Web Apps (PWA) with service workers
-- Data visualization with Recharts
-
-#### **Backend Development**
-- Node.js/Express server architecture
-- MongoDB database modeling and optimization
-- Excel report generation with ExcelJS
-- Error handling and input validation
-- CORS configuration and security best practices
-
-#### **Data Analysis**
-- Statistical analysis with Python (Pandas, NumPy, SciPy)
-- Data visualization with Matplotlib and Seaborn
-- Hypothesis testing and confidence intervals
-- Linear regression and ANOVA
-- Jupyter Notebook for reproducible research
-
-#### **Algorithms & Data Structures**
-- Complexity analysis (Big-O notation)
-- Linked list implementations
-- Hash-based optimization techniques
-- Divide-and-conquer strategies
-- Dynamic programming
-
-#### **Software Engineering**
-- Object-Oriented Programming (inheritance, polymorphism, encapsulation)
-- Design patterns (MVC, Template Method, Strategy)
-- Version control with Git and GitHub
-- API testing with Postman
-- Clean code principles and documentation
-
----
-
-## Let's Connect
-
-**What I Bring:**
-- Full-stack development experience (MERN, Java, Python)
-- Healthcare workflow understanding from clinical experience
-- Strong problem-solving and analytical skills
-- Passion for building user-focused applications
-- Self-directed learning and adaptability
-
-**I'm interested in:**
-- Building products that solve real problems
-- Healthcare technology and medical software
-- Full-stack web development
-- Data-driven applications
-
----
-
-### Contact
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mario_Mujica-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mario-mujica-903b19172)
-[![Email](https://img.shields.io/badge/Email-mariomujica99@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariomujica99@gmail.com)
-[![Handshake](https://img.shields.io/badge/Handshake-Profile-FF6B35?style=for-the-badge)](https://unomaha.joinhandshake.com/profiles/nbw72u)
