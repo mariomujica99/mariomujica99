@@ -26,25 +26,59 @@ My journey from neuroscience to software development has given me:
 
 ## Projects
 
-### [Techflow](https://github.com/mariomujica99/Techflow)  
-**EEG Workflow Management System**  
-**Full-Stack MERN PWA | Healthcare Workflow Management**
+### [Techflow](https://github.com/mariomujica99/techflow)
+**EEG Workflow Management Portal**  
+**Full-Stack MERN PWA | Multi-Department | Production Deployed**
 
-A comprehensive Progressive Web App designed for EEG Technologists in the hospital neurophysiology department. This project streamlines EEG workflow management, equipment tracking, and team collaboration.
+A Progressive Web App actively deployed for use in a hospital neurophysiology department. Techflow centralizes daily EEG workflow into one accessible platform built for real department use.
 
-[![Website](https://img.shields.io/badge/Techflow-30b5b2?style=flat-square)](https://techflow-eeg.onrender.com)
-[![Video](https://img.shields.io/badge/Video_Demo-FF0000?style=flat-square&logo=youtube)](https://youtu.be/jFayn1NAa2k)
+[![Website](https://img.shields.io/badge/Techflow-30b5b2?style=flat-square)](https://techflow-portal.onrender.com)
+[![Video](https://img.shields.io/badge/Video_Demo-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=th6pe1BtIMc)
+[![Repo](https://img.shields.io/badge/Repo-gray?style=flat-square&logo=github)](https://github.com/mariomujica99/techflow)
+
+<details>
+<summary><strong>Demo Account Credentials</strong></summary>
+
+<br>
+
+**Techflow & Techflow EEG Task Manager**
+
+```
+Admin Email:    admindemo@gmail.com
+User Email:     userdemo@gmail.com
+Password:       Demo2026!
+```
+
+</details>
+
+> |
 
 **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS, JWT, Cloudinary  
 **Key Features:**
-- Role-based authentication (Admin/Member)
-- Specialized EEG order types with dynamic checklists
-- Real-time analytics dashboard with Recharts
+- Multi-department architecture with department-scoped data isolation
+- Interactive digital whiteboard
+- Equipment monitoring, supply tracking, and file management
+- Role-based access control (Admin|User)
 - Progressive Web App (installable on mobile/desktop)
-- File management with cloud storage
 - Excel report generation for administrators
 
-**Impact:** Replaces paper-based task tracking, centralizes team communication, and provides real-time equipment monitoring for hospital staff.
+**Impact:** Deployed for active department use. Designed around a HIPAA compliance decision. Features involving patient-level data were scoped out intentionally for the production version.
+
+### [Techflow EEG Task Manager](https://github.com/mariomujica99/eeg-task-manager)
+**Extended Version | Full Feature Set**
+
+The full-featured predecessor to Techflow, preserved for portfolio purposes. Includes everything in the production version, plus a complete Task Management System for EEG orders.
+
+[![Website](https://img.shields.io/badge/EEG_Task_Manager-30b5b2?style=flat-square)](https://techflow-eeg.onrender.com)
+[![Video](https://img.shields.io/badge/Video_Demo-FF0000?style=flat-square&logo=youtube)](https://youtu.be/jFayn1NAa2k)
+[![Repo](https://img.shields.io/badge/Repo-gray?style=flat-square&logo=github)](https://github.com/mariomujica99/eeg-task-manager)
+
+**Additional Features:**
+- 12 EEG order types with dynamic todo checklists and progress tracking
+- Priority levels (Routine, ASAP, STAT) with status workflow
+- Floor whiteboard with per-room task management
+- Analytics dashboard with Recharts (pie/bar charts, recent orders)
+- Bulk task operations and automatic warning thresholds
 
 ---
 
@@ -53,9 +87,9 @@ A comprehensive Progressive Web App designed for EEG Technologists in the hospit
 
 A complete movie and TV show discovery application with user reviews. This project is integrated with The Movie Database (TMDB) API.
 
+[![Website](https://img.shields.io/badge/Celestial_Cinema-6A5ACD?style=flat-square)](https://mariomujica99.github.io/celestial-cinema/index.html)
 [![Frontend](https://img.shields.io/badge/Frontend-lightslategray?style=flat-square)](https://github.com/mariomujica99/celestial-cinema)
 [![Backend](https://img.shields.io/badge/Backend-lightslategray?style=flat-square)](https://github.com/mariomujica99/celestial-cinema-backend)
-[![Website](https://img.shields.io/badge/Celestial_Cinema-6A5ACD?style=flat-square)](https://mariomujica99.github.io/celestial-cinema/index.html)
 
 **Tech Stack:** React, Node.js, Express, MongoDB, TMDB API, Render, GitHub Pages  
 **Key Features:**
@@ -84,37 +118,6 @@ An interactive food ordering application demonstrating OOP principles including 
 - Clean UI with input validation
 
 **Design Patterns:** Template Method, Strategy Pattern, extensive inheritance hierarchies.
-
----
-
-### [Applied Statistics Semester Project](https://github.com/mariomujica99/CIST-2500-project)
-**Python | Data Analysis & Visualization**
-
-Statistical analysis project converting Excel-based coursework to Python, demonstrating data science capabilities.
-
-**Tech Stack:** Python, Jupyter Notebook, Pandas, NumPy, Matplotlib, SciPy, Statsmodels  
-**Methods Implemented:**
-- Descriptive statistics (central tendency, variability, correlation)
-- Hypothesis testing (t-tests, ANOVA, chi-square)
-- Linear regression and OLS modeling
-- Data visualization (box plots, scatter plots, bar charts)
-- Statistical inference (confidence intervals, p-values)
-
-**Findings:** Analyzed movie performance, reaction times, student attitudes, and M&M distributions with statistical rigor.
-
----
-
-### [Data Structures & Algorithms](https://github.com/mariomujica99/CSCI-3320-projects)
-**Java | Algorithm Analysis & Implementation**
-
-Three programming assignments demonstrating complexity analysis, data structure implementation, and optimization techniques.
-
-**Projects:**
-1. **Minimum Subsequence Sum** - Comparative analysis of O(n²), O(n log n), and O(n) algorithms
-2. **Stack & Queue with Linked Lists** - Implementation using singly and doubly linked lists
-3. **Zero-Sum Subarray Detection** - Hash-based O(n) solution with prefix sums
-
-**Key Concepts:** Big-O notation, divide-and-conquer, dynamic programming, hash optimization
 
 ---
 
@@ -163,9 +166,3 @@ A recreation of YouTube's homepage interface. This project demonstrates the use 
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-
-### **Data & Analysis**
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
