@@ -121,23 +121,6 @@ An interactive food ordering application demonstrating OOP principles including 
 
 ---
 
-### [YouTube Clone](https://github.com/mariomujica99/youtube-clone)
-**HTML/CSS | Responsive Web Design**
-
-A recreation of YouTube's homepage interface. This project demonstrates the use of CSS Grid, Flexbox, and responsive design.
-
-[![Live Demo](https://img.shields.io/badge/Youtube_Clone-FF0000?style=flat-square&logo=youtube)](https://mariomujica99.github.io/youtube-clone/)
-
-**Tech Stack:** HTML5, CSS3  
-**Features:**
-- Responsive grid (1-4 columns based on viewport)
-- Fixed header
-- Interactive sidebar navigation
-- Hover effects and tooltips
-- Dynamic video thumbnails
-
----
-
 ## Tech Stacks
 
 ### **Languages**
