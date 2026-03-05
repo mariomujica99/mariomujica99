@@ -99,7 +99,7 @@ A complete movie and TV show discovery application with user reviews. This proje
 [![Frontend](https://img.shields.io/badge/Frontend-lightslategray?style=flat-square)](https://github.com/mariomujica99/celestial-cinema)
 [![Backend](https://img.shields.io/badge/Backend-lightslategray?style=flat-square)](https://github.com/mariomujica99/celestial-cinema-backend)
 
-**Tech Stack:** React, Node.js, Express, MongoDB, TMDB API, Render, GitHub Pages  
+**Tech Stack:** HTML, CSS, JavaScript, Node.js, Express.js, MongoDB Atlas, and the TMDB API.
 **Key Features:**
 - Browse trending, popular, and upcoming movies/TV shows
 - Advanced search across movies, TV shows, and people
@@ -128,7 +128,7 @@ A demonstration of core CS design patterns in Java. OOP principles were implemen
 ---
 
 ### [Data Structures & Algorithms](https://github.com/mariomujica99/CSCI-3320-projects)
-**Algorithm Analysis & Implementation | Java**
+**Algorithm Analysis & Implementation | Python**
 
 Three programming assignments exploring algorithmic complexity, data structure implementation, and optimization strategies.
 
