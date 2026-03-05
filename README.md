@@ -14,13 +14,14 @@
 
 ## About Me
 
-I'm a **full-stack software developer** with a unique background in **healthcare** and **neuroscience**. I combine clinical expertise as an EEG Technologist with modern software development skills to build practical, user-focused applications that solve real-world problems.
+I'm a full-stack software developer with a background in healthcare and neuroscience. I spent 3 years performing EEGs in a hospital neurophysiology department. Then, I built the software my department actually needed.
 
-My journey from neuroscience to software development has given me:
-- **Domain expertise** in healthcare workflows and medical technology
-- **Full-stack development** skills across multiple languages and frameworks
-- **Problem-solving mindset** shaped by both clinical and technical challenges
-- **Data analysis** experience from statistical research to application analytics
+That path from neuroscience to software has shaped how I build. I understand the domain deeply and I design around real workflows.
+
+- **Domain expertise** in healthcare operations and medical technology
+- **Full-stack development** across multiple languages and frameworks
+- **Data analysis** background from statistical research to application analytics
+- **Problem-solving mindset** built in both clinical and technical environments
 
 ---
 
@@ -28,9 +29,9 @@ My journey from neuroscience to software development has given me:
 
 ### [Techflow](https://github.com/mariomujica99/techflow)
 **EEG Workflow Management Portal**  
-**Full-Stack MERN PWA | Multi-Department | Production Deployed**
+**Full-Stack MERN PWA | Multi-Department**
 
-A Progressive Web App actively deployed for use in a hospital neurophysiology department. Techflow centralizes daily EEG workflow into one accessible platform built for real department use.
+A Progressive Web App for the use in a hospital neurophysiology department. Techflow centralizes daily EEG workflow into one accessible platform built for real department use.
 
 [![Website](https://img.shields.io/badge/Techflow-30b5b2?style=flat-square)](https://techflow-portal.onrender.com)
 [![Video](https://img.shields.io/badge/Video_Demo-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=th6pe1BtIMc)
@@ -49,11 +50,12 @@ User Email:     userdemo@gmail.com
 Password:       Demo2026!
 ```
 
-</details>
+</details>  
 
-> |
+
 
 **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS, JWT, Cloudinary  
+
 **Key Features:**
 - Multi-department architecture with department-scoped data isolation
 - Interactive digital whiteboard
@@ -62,9 +64,13 @@ Password:       Demo2026!
 - Progressive Web App (installable on mobile/desktop)
 - Excel report generation for administrators
 
-**Impact:** Deployed for active department use. Designed around a HIPAA compliance decision. Features involving patient-level data were scoped out intentionally for the production version.
+**Impact:** Deployed for department use. Designed around a HIPAA compliance decision. Features involving patient-level data were scoped out intentionally for the production version.
 
-### [Techflow EEG Task Manager](https://github.com/mariomujica99/eeg-task-manager)
+<details>
+<summary><strong>Techflow EEG Task Manager</strong></summary>
+
+<br>
+
 **Extended Version | Full Feature Set**
 
 The full-featured predecessor to Techflow, preserved for portfolio purposes. Includes everything in the production version, plus a complete Task Management System for EEG orders.
@@ -79,6 +85,8 @@ The full-featured predecessor to Techflow, preserved for portfolio purposes. Inc
 - Floor whiteboard with per-room task management
 - Analytics dashboard with Recharts (pie/bar charts, recent orders)
 - Bulk task operations and automatic warning thresholds
+
+</details>
 
 ---
 
@@ -100,24 +108,46 @@ A complete movie and TV show discovery application with user reviews. This proje
 - Detailed cast/crew information with filmographies
 - Responsive design with dynamic backdrops
 
-**Architecture:** RESTful API backend serving as TMDB proxy with MongoDB review database, deployed separately for scalability.
+**Architecture:** RESTful API backend serving as TMDB proxy with MongoDB review database, deployed separately.
 
 ---
 
 ### [Rio's Restaurant Ordering System](https://github.com/mariomujica99/CSCI-2830-restaurant)
 **JavaFX Application | Object-Oriented Software Engineering**
 
-An interactive food ordering application demonstrating OOP principles including inheritance, polymorphism, and the MVC design pattern.
+A demonstration of core CS design patterns in Java. OOP principles were implemented through an interactive food ordering GUI.
 
 **Tech Stack:** Java, JavaFX, Maven, FXML  
+**Design Patterns:** Template Method, Strategy Pattern, MVC architecture, inheritance hierarchies  
 **Key Features:**
 - Build-your-own pizza with 6 topping varieties
 - Custom burger builder with multiple bun/patty/cheese options
-- Real-time price calculation
-- Receipt generation with automatic price sorting
-- Clean UI with input validation
+- Real-time price calculation and receipt generation with automatic price sorting
+- UI with input validation
 
-**Design Patterns:** Template Method, Strategy Pattern, extensive inheritance hierarchies.
+---
+
+### [Data Structures & Algorithms](https://github.com/mariomujica99/CSCI-3320-data-structures)
+**Algorithm Analysis & Implementation | Java**
+
+Three programming assignments exploring algorithmic complexity, data structure implementation, and optimization strategies.
+
+**Key Work:**
+- Minimum subsequence sum across O(n²), O(n log n), and O(n) algorithms with benchmarked performance comparisons
+- Queue and TwoStacks implementations using singly and doubly linked lists
+- O(n) hash-based zero-sum subarray detection (vs. O(n²) brute force)
+
+**Concepts:** Big-O analysis · Divide-and-conquer · Dynamic programming · Prefix sum technique · Pointer manipulation
+
+---
+
+### [Applied Statistics Semester Project](https://github.com/mariomujica99/CIST-2500-statistics)
+**Python / Jupyter Notebook | Statistical Analysis**
+
+Applied statistical methods to real-world datasets using Python. Replicated Excel-based coursework in code to demonstrate both analytical depth and data engineering skills.
+
+**Tech Stack:** Python, pandas, NumPy, SciPy, statsmodels, matplotlib, seaborn, Jupyter Notebook  
+**Methods:** Two-sample and paired t-tests · ANOVA with Fisher's LSD and Bonferroni correction · Chi-square tests · OLS regression · Correlation analysis  
 
 ---
 
@@ -142,6 +172,11 @@ An interactive food ordering application demonstrating OOP principles including 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+
+### **Data & Analysis**
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### **Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
