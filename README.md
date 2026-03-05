@@ -127,7 +127,7 @@ A demonstration of core CS design patterns in Java. OOP principles were implemen
 
 ---
 
-### [Data Structures & Algorithms](https://github.com/mariomujica99/CSCI-3320-data-structures)
+### [Data Structures & Algorithms](https://github.com/mariomujica99/CSCI-3320-projects)
 **Algorithm Analysis & Implementation | Java**
 
 Three programming assignments exploring algorithmic complexity, data structure implementation, and optimization strategies.
@@ -141,7 +141,7 @@ Three programming assignments exploring algorithmic complexity, data structure i
 
 ---
 
-### [Applied Statistics Semester Project](https://github.com/mariomujica99/CIST-2500-statistics)
+### [Applied Statistics Semester Project](https://github.com/mariomujica99/CIST-2500-project)
 **Python / Jupyter Notebook | Statistical Analysis**
 
 Applied statistical methods to real-world datasets using Python. Replicated Excel-based coursework in code to demonstrate both analytical depth and data engineering skills.
